@@ -220,4 +220,3 @@ MIT License - feel free to use and modify for your projects.
 
 ---
 
-**Built for hackathon speed and clarity** 🚀
