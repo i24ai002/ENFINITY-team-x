@@ -23,7 +23,7 @@ Financial apps today are overloaded with:
 
 **$ GULLAK** gives **one clear answer:**
 
-> 💰 *How much can I safely spend today?*
+> 💰 *How much can I safely spend today ?*
 
 No clutter. No noise. Just clarity.
 
