@@ -1,0 +1,42 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Transaction {
+  id          String   @id @default(cuid())
+  date        DateTime
+  amount      Float
+  description String
+  type        String   // income, expense, transfer
+  category    String?  // housing, food, subscriptions, etc.
+  account     String?
+  isRecurring Boolean  @default(false)
+  merchant    String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("transactions")
+}
+
+model Category {
+  id          String @id @default(cuid())
+  name        String @unique
+  keywords    String // comma-separated keywords
+  createdAt   DateTime @default(now())
+
+  @@map("categories")
+}
+
+model Anomaly {
+  id            String @id @default(cuid())
+  transactionId String
+  description   String
+  percentage    Float
+  createdAt     DateTime @default(now())
+
+  @@map("anomalies")
+}
