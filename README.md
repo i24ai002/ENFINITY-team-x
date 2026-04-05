@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=GULLAK&fontSize=50&fontColor=ffffff"/>
-</p><h1 align="center">💰 GULLAK</h1><p align="center">
+<h1 align="center">💰 GULLAK</h1><p align="center">
 <b>Zero-Clutter Financial Forecaster</b><br><br>
 ⚡ <i>See it. Trust it. Spend it.</i>
 </p><p align="center">
@@ -13,69 +11,57 @@
 <img src="https://img.shields.io/badge/Vercel-Live-success?style=for-the-badge"/>
 </p>---
 
-<h2 align="center">🚀 Live Demo</h2><p align="center">
+<p align="center">
 <a href="https://gullak-zero-clutte.vercel.app/">
-<img src="https://img.shields.io/badge/🚀 Open Live App-GULLAK-success?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/🚀 Open GULLAK Live-success?style=for-the-badge&logo=vercel"/>
 </a>
 </p><p align="center">
 🔗 https://gullak-zero-clutte.vercel.app/
 </p>---
 
-<h2 align="center">🎥 Demo Preview</h2><p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d0cGZzY3d5c3R4Z2d2eW9tNnE4cGJqM2V6d3Y4Z3E2eG5nZ2E2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="600"/>
-</p><p align="center">
-<i>(Replace this with your own demo GIF for maximum impact)</i>
-</p>---
-
 🧠 The Problem
 
-Finance apps today are overloaded and confusing:
+Finance apps today are overcomplicated:
 
 - ❌ Too many charts
 - ❌ Too many features
-- ❌ Too much noise
+- ❌ Too much confusion
 
-👉 Users don’t get clarity — they get overwhelmed.
-
----
-
-💡 The Solution
-
-GULLAK simplifies everything.
-
-«Upload your financial data → instantly know your safe daily spending limit»
-
-No clutter. No confusion.
+👉 You don’t get answers. You get overwhelmed.
 
 ---
 
-🎯 Core Philosophy
+💡 The Idea
 
-✨ Minimalism First
+GULLAK removes everything unnecessary.
+
+«You upload your data → it tells you exactly how much you can spend per day»
+
+Nothing more. Nothing less.
+
+---
+
+🎯 What Makes It Special
+
+⚡ No Friction
 
 - 🚫 No login
 - 🚫 No signup
 - 🚫 No setup
 
-✔ Just:
-
-- Upload
-- See result
-- Take decision
+👉 Just open → upload → result
 
 ---
 
-<h2 align="center">💣 See it. Trust it. Spend it.</h2>---
-
-💰 Core Innovation
+💰 One Powerful Output
 
 Safe Daily Spend = (Balance - Recurring Expenses) / 30
 
-👉 One number = complete financial clarity
+👉 One number = your financial clarity
 
 ---
 
-✨ Features
+✨ Features (Simple but Powerful)
 
 📥 Smart Upload
 
@@ -84,14 +70,14 @@ Safe Daily Spend = (Balance - Recurring Expenses) / 30
   - Bank statements
   - PaySim datasets
 
-✔ Handles messy real-world data
+✔ Handles messy real-world data automatically
 
 ---
 
 🧠 Backend Intelligence
 
-- Next.js API routes
-- Server-side processing
+- Next.js API handles all calculations
+- Fast + efficient
 
 ✔ Calculates:
 
@@ -105,21 +91,27 @@ Safe Daily Spend = (Balance - Recurring Expenses) / 30
 ⚠️ Smart Alerts
 
 - Detects unusual spending
-- Highlights risk silently
+- Highlights risks
+
+👉 No popups, no noise
 
 ---
 
 📊 Clean Dashboard
 
+- Only essential numbers
 - No graphs
-- No clutter
-- Only important numbers
+- No distractions
+
+👉 Designed for instant understanding
 
 ---
 
-🏗 Flow
+🏗 How It Works
 
-Upload → Parse → API → Result
+Upload → Parse → Backend → Result
+
+Simple pipeline. Zero complexity.
 
 ---
 
@@ -135,10 +127,10 @@ Backend
 
 - Next.js API Routes
 
-Data
+Data Handling
 
 - XLSX
-- Custom CSV parser
+- Custom parser
 
 Deployment
 
@@ -146,17 +138,17 @@ Deployment
 
 ---
 
-🧪 Real Use
+🧪 Real Usage
 
-Upload your bank statement and instantly know:
+Upload your bank statement and instantly see:
 
-✔ How much you can spend
-✔ If you are overspending
+✔ How much you can spend daily
+✔ If you’re overspending
 ✔ Your financial health
 
 ---
 
-🎨 Design Principle
+🎨 Design Philosophy
 
 - ❌ No charts
 - ❌ No clutter
@@ -170,17 +162,18 @@ Upload your bank statement and instantly know:
 🏆 Why GULLAK Wins
 
 Others| GULLAK
-Complex| Simple
-Slow| Instant
+Complex UI| Clean UI
+Slow insights| Instant
 Confusing| Clear
+Feature-heavy| Decision-focused
 
 ---
 
 🔮 Future Scope
 
 - Bank integrations
-- Authentication
-- Database
+- User accounts
+- Cloud database
 - Mobile app
 
 ---
@@ -191,8 +184,6 @@ Aman • Neel • Manav • Aayush
 
 ---
 
-<h2 align="center">🧠 We don’t show data , we show decisions.</h2><p align="center">
+<h2 align="center">🧠 We don’t show data — we show decisions.</h2><p align="center">
 ⭐ Star this repo if you like it
-</p><p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
 </p>
