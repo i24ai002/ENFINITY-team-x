@@ -9,11 +9,9 @@
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vercel-Live-success?style=for-the-badge"/>
-</p>---
-
-<p align="center">
+</p><br/><h2 align="center">🚀 Live Demo</h2><p align="center">
 <a href="https://gullak-zero-clutte.vercel.app/">
-<img src="https://img.shields.io/badge/🚀 Open GULLAK Live-success?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Open Live App-GULLAK-success?style=for-the-badge&logo=vercel"/>
 </a>
 </p><p align="center">
 🔗 https://gullak-zero-clutte.vercel.app/
@@ -21,63 +19,68 @@
 
 🧠 The Problem
 
-Finance apps today are overcomplicated:
+Financial apps today are:
 
-- ❌ Too many charts
-- ❌ Too many features
-- ❌ Too much confusion
+- ❌ Overloaded
+- ❌ Confusing
+- ❌ Full of unnecessary charts
 
-👉 You don’t get answers. You get overwhelmed.
-
----
-
-💡 The Idea
-
-GULLAK removes everything unnecessary.
-
-«You upload your data → it tells you exactly how much you can spend per day»
-
-Nothing more. Nothing less.
+👉 Users don’t get clarity — they get overwhelmed.
 
 ---
 
-🎯 What Makes It Special
+💡 The Solution
 
-⚡ No Friction
+GULLAK simplifies finance into ONE clear answer
+
+«Upload your data → instantly know how much you can safely spend daily»
+
+---
+
+🎯 Core Philosophy
+
+✨ Minimalism First
 
 - 🚫 No login
 - 🚫 No signup
-- 🚫 No setup
+- 🚫 No clutter
+- 🚫 No charts
 
-👉 Just open → upload → result
+✔ Just:
+
+- Upload
+- Result
+- Decision
 
 ---
 
-💰 One Powerful Output
+<h2 align="center">💣 See it. Trust it. Spend it.</h2>---
+
+💰 Core Innovation
 
 Safe Daily Spend = (Balance - Recurring Expenses) / 30
 
-👉 One number = your financial clarity
+👉 One number = full financial clarity
 
 ---
 
-✨ Features (Simple but Powerful)
+✨ Features
 
 📥 Smart Upload
 
-- CSV & Excel supported
+- CSV & Excel support
 - Works with:
   - Bank statements
   - PaySim datasets
 
-✔ Handles messy real-world data automatically
+✔ Handles messy data automatically
 
 ---
 
 🧠 Backend Intelligence
 
-- Next.js API handles all calculations
-- Fast + efficient
+- Next.js API routes
+- Server-side calculations
 
 ✔ Calculates:
 
@@ -91,9 +94,7 @@ Safe Daily Spend = (Balance - Recurring Expenses) / 30
 ⚠️ Smart Alerts
 
 - Detects unusual spending
-- Highlights risks
-
-👉 No popups, no noise
+- Clean UI (no popups)
 
 ---
 
@@ -103,15 +104,11 @@ Safe Daily Spend = (Balance - Recurring Expenses) / 30
 - No graphs
 - No distractions
 
-👉 Designed for instant understanding
-
 ---
 
 🏗 How It Works
 
-Upload → Parse → Backend → Result
-
-Simple pipeline. Zero complexity.
+Upload → Parse → API → Result
 
 ---
 
@@ -127,10 +124,10 @@ Backend
 
 - Next.js API Routes
 
-Data Handling
+Data Processing
 
 - XLSX
-- Custom parser
+- Custom CSV parser
 
 Deployment
 
@@ -142,38 +139,27 @@ Deployment
 
 Upload your bank statement and instantly see:
 
-✔ How much you can spend daily
-✔ If you’re overspending
-✔ Your financial health
-
----
-
-🎨 Design Philosophy
-
-- ❌ No charts
-- ❌ No clutter
-- ❌ No distractions
-
-✔ Only clarity
-✔ Only decisions
+✔ Daily spending limit
+✔ Overspending alerts
+✔ Financial health
 
 ---
 
 🏆 Why GULLAK Wins
 
-Others| GULLAK
-Complex UI| Clean UI
-Slow insights| Instant
-Confusing| Clear
-Feature-heavy| Decision-focused
+Feature| Traditional Apps| GULLAK
+UI| Complex| Clean
+Speed| Slow| Instant
+Experience| Confusing| Clear
+Focus| Feature-heavy| Decision-focused
 
 ---
 
 🔮 Future Scope
 
 - Bank integrations
-- User accounts
-- Cloud database
+- Authentication
+- Database
 - Mobile app
 
 ---
