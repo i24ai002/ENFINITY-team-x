@@ -1,41 +1,61 @@
-💰 $ GULLAK
-
-Zero-Clutter Financial Forecaster
-
-🚀 Built by Team X
+<h1 align="center">💰 $ GULLAK</h1>
+<h3 align="center">Zero-Clutter Financial Forecaster</h3><p align="center">
+🚀 Built by <b>Team X</b><br>
 👨‍💻 Aman • Neel • Manav • Aayush
+</p><p align="center">
+<img src="https://img.shields.io/badge/Next.js-13-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel-Live-success?style=for-the-badge"/>
+</p>---
 
----
-
-🌐 Live Demo
-
-👉 https://gullak-zero-clutte.vercel.app/
-
----
+<h2 align="center">🌐 Live Demo</h2><p align="center">
+<a href="https://gullak-zero-clutte.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀 View Live Project-GULLAK-success?style=for-the-badge&logo=vercel"/>
+</a>
+</p><p align="center">
+<b>🔗 https://gullak-zero-clutte.vercel.app/</b>
+</p>---
 
 🧠 Problem Statement
 
-Modern financial platforms are overloaded with:
+Modern financial apps are overloaded with:
 
-- ❌ Charts & graphs
-- ❌ Notifications & banners
+- ❌ Charts
+- ❌ Graphs
+- ❌ Notifications
 - ❌ Complex dashboards
 
-👉 This leads to cognitive overload instead of clarity
+👉 Result: Cognitive overload instead of clarity
 
 ---
 
 💡 Our Solution
 
-Introducing $ GULLAK — a zero-clutter financial intelligence system
+$ GULLAK is a zero-clutter financial intelligence system
 
-«⚡ Upload your bank statement → instantly know how much you can safely spend daily.»
-
-✔ No charts
-✔ No distractions
-✔ Just one powerful number
+«⚡ Upload your transaction data → instantly know how much you can safely spend daily.»
 
 ---
+
+🎯 Core Philosophy
+
+✨ Minimalism First
+
+- 🚫 No login
+- 🚫 No signup
+- 🚫 No clutter
+- 🚫 No charts
+
+✔ Just:
+
+- One upload
+- One result
+- One decision
+
+---
+
+<h2 align="center">💣 See it. Trust it. Spend it.</h2>---
 
 🎯 Core Innovation
 
@@ -43,106 +63,83 @@ Introducing $ GULLAK — a zero-clutter financial intelligence system
 
 Safe Daily Spend = (Balance - Recurring Expenses) / 30
 
-👉 This answers the most important question:
-
-«“How much can I safely spend today?”»
+👉 One number = Complete financial clarity
 
 ---
 
 ✨ Key Features
 
-📥 1. Smart Data Ingestion Pipeline
+📥 Smart Data Ingestion
 
-- Upload:
-  - CSV files
-  - Excel (.xlsx)
+- Upload CSV / Excel
 - Supports:
-  - PaySim datasets (Kaggle)
+  - PaySim datasets
   - Real bank statements
 
 ✔ Handles messy data:
 
-- Different date formats
-- Currency symbols (₹, $, commas)
-- Missing/null values
+- ₹ / $ / commas
+- Missing values
+- Mixed formats
 
 ---
 
-🧠 2. Backend Financial Engine
+🧠 Backend Financial Engine
 
 - Built using Next.js API Routes
-- Server-side processing of all financial data
+- Server-side processing
 
-✔ Computes:
+✔ Calculates:
 
-- Total Income
-- Total Expenses
+- Income
+- Expenses
 - Balance
-- Recurring Expenses
-- Safe Daily Spend
-
-✔ Benefits:
-
-- Faster performance
-- Clean architecture
-- Scalable design
+- Recurring expenses
+- Safe daily spend
 
 ---
 
-🔄 3. Multi-Account & Format Support
+🔄 Multi-Format Support
 
-Data Type| Supported
-PaySim Dataset| ✅
+Format| Supported
+PaySim| ✅
 Bank CSV| ✅
-Excel Files| ✅
+Excel| ✅
 
 ---
 
-🧩 4. Algorithmic Categorization
-
-Automatically detects:
+🧩 Smart Categorization
 
 - Rent 🏠
 - Subscriptions 🎬
 - Food 🍔
 - Utilities ⚡
 
-✔ Classifies:
+---
 
-- Recurring vs One-time expenses
+⚠️ Silent Anomaly Detection
+
+- Detects unusual spending
+- No popups
+- Subtle UI highlights
 
 ---
 
-⚠️ 5. Silent Anomaly Detection
+🔍 Semantic Search
 
-- Detects unusual spending patterns
-- Flags:
-  - Large transactions
-  - Sudden spikes
-
-👉 Uses subtle UI (no popups)
+- “Food spending?”
+- “Expenses above ₹5000?”
 
 ---
 
-🔍 6. Semantic Search
-
-Ask questions like:
-
-- “How much did I spend on food?”
-- “Show transactions above ₹5000”
-
----
-
-📊 7. Minimal Financial Dashboard
-
-Displays:
+📊 Zero-Clutter Dashboard
 
 - 💰 Safe Daily Spend
 - 📉 Expenses
 - 📈 Income
 - ⚠️ Alerts
 
-👉 All using text-only interface
+👉 Pure text interface (no charts)
 
 ---
 
@@ -150,15 +147,15 @@ Displays:
 
 User Upload
    ↓
-Frontend Parser (CSV / Excel)
+Frontend Parser
    ↓
-API Request → /api/process
+API (/api/process)
    ↓
-Backend Processing Engine
+Backend Engine
    ↓
-Financial Insights (JSON)
+Processed Data
    ↓
-Dashboard UI
+Dashboard
 
 ---
 
@@ -175,13 +172,13 @@ Dashboard UI
 ⚙️ Backend
 
 - Next.js API Routes (Serverless)
-- Handles all financial calculations
+- Financial processing logic
 
 ---
 
 📊 Data Processing
 
-- XLSX (Excel parsing)
+- XLSX library
 - Custom CSV parser
 - Smart cleaning logic
 
@@ -189,24 +186,24 @@ Dashboard UI
 
 💾 Storage
 
-- localStorage (lightweight summary)
+- localStorage (lightweight)
 - Prisma (optional future DB)
 
 ---
 
 ☁️ Deployment
 
-- Vercel (Serverless platform)
+- Vercel (Serverless Hosting)
 
 ---
 
 🚀 How It Works
 
-1️⃣ Upload transaction file
-2️⃣ Data gets parsed & cleaned
-3️⃣ Sent to backend API
-4️⃣ Backend computes insights
-5️⃣ Dashboard displays results instantly
+1️⃣ Upload file
+2️⃣ Data parsed & cleaned
+3️⃣ Sent to backend
+4️⃣ Processed instantly
+5️⃣ Result displayed
 
 ---
 
@@ -226,18 +223,21 @@ Dashboard UI
 
 - ❌ No charts
 - ❌ No clutter
-- ✅ Typography-first UI
-- ✅ Instant clarity
+- ❌ No distractions
+
+✔ Typography-first
+✔ Instant clarity
+✔ Decision-focused
 
 ---
 
-🏆 Why $ GULLAK Stands Out
+🏆 Why $ GULLAK Wins
 
 Traditional Apps| $ GULLAK
 Complex UI| Minimal UI
-Charts heavy| Text only
-Confusing| Clear decision
-Slow| Instant
+Slow insights| Instant
+Overloaded| Clean
+Confusing| Clear
 
 ---
 
@@ -245,7 +245,7 @@ Slow| Instant
 
 - Bank API integration
 - User authentication
-- Cloud database (PostgreSQL)
+- PostgreSQL database
 - Mobile app
 
 ---
@@ -259,10 +259,8 @@ Slow| Instant
 
 ---
 
-🧠 Final Thought
+<h2 align="center">🧠 We don’t show data — we show decisions.</h2>---
 
-«“We don’t show data — we show decisions.”»
-
----
-
-⭐ Star this repo if you like it
+<p align="center">
+⭐ Star this repo if you like it!
+</p>
