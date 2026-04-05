@@ -1,36 +1,51 @@
-<h1 align="center">💰 $ GULLAK</h1>
-<h3 align="center">Zero-Clutter Financial Forecaster</h3><p align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=GULLAK&fontSize=50&fontColor=ffffff"/>
+</p><h1 align="center">💰 GULLAK</h1><p align="center">
+<b>Zero-Clutter Financial Forecaster</b><br><br>
+⚡ <i>See it. Trust it. Spend it.</i>
+</p><p align="center">
 🚀 Built by <b>Team X</b><br>
 👨‍💻 Aman • Neel • Manav • Aayush
 </p><p align="center">
-<img src="https://img.shields.io/badge/Next.js-13-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vercel-Live-success?style=for-the-badge"/>
-</p><br/><h2 align="center">🌐 Live Demo</h2><p align="center">
-<a href="https://gullak-zero-clutte.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🚀 Launch App-GULLAK-success?style=for-the-badge&logo=vercel"/>
+</p>---
+
+<h2 align="center">🚀 Live Demo</h2><p align="center">
+<a href="https://gullak-zero-clutte.vercel.app/">
+<img src="https://img.shields.io/badge/🚀 Open Live App-GULLAK-success?style=for-the-badge&logo=vercel"/>
 </a>
 </p><p align="center">
-🔗 <b>https://gullak-zero-clutte.vercel.app/</b>
-</p><br/>🧠 Problem Statement
+🔗 https://gullak-zero-clutte.vercel.app/
+</p>---
 
-Modern financial apps are overloaded with:
+<h2 align="center">🎥 Demo Preview</h2><p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d0cGZzY3d5c3R4Z2d2eW9tNnE4cGJqM2V6d3Y4Z3E2eG5nZ2E2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="600"/>
+</p><p align="center">
+<i>(Replace this with your own demo GIF for maximum impact)</i>
+</p>---
 
-- ❌ Charts
-- ❌ Graphs
-- ❌ Notifications
-- ❌ Complex dashboards
+🧠 The Problem
 
-👉 Result: Cognitive overload instead of clarity
+Finance apps today are overloaded and confusing:
+
+- ❌ Too many charts
+- ❌ Too many features
+- ❌ Too much noise
+
+👉 Users don’t get clarity — they get overwhelmed.
 
 ---
 
-💡 Our Solution
+💡 The Solution
 
-$ GULLAK is a zero-clutter financial intelligence system
+GULLAK simplifies everything.
 
-«⚡ Upload your data → instantly know your safe daily spending limit»
+«Upload your financial data → instantly know your safe daily spending limit»
+
+No clutter. No confusion.
 
 ---
 
@@ -40,86 +55,71 @@ $ GULLAK is a zero-clutter financial intelligence system
 
 - 🚫 No login
 - 🚫 No signup
-- 🚫 No clutter
-- 🚫 No charts
+- 🚫 No setup
 
 ✔ Just:
 
-- One upload
-- One result
-- One decision
+- Upload
+- See result
+- Take decision
 
 ---
 
 <h2 align="center">💣 See it. Trust it. Spend it.</h2>---
 
-🎯 Core Innovation
-
-💰 Rolling 30-Day Runway
+💰 Core Innovation
 
 Safe Daily Spend = (Balance - Recurring Expenses) / 30
 
-👉 One number = total financial clarity
+👉 One number = complete financial clarity
 
 ---
 
-✨ Key Features
+✨ Features
 
 📥 Smart Upload
 
-- CSV / Excel support
-- PaySim + Bank statements
+- CSV & Excel supported
+- Works with:
+  - Bank statements
+  - PaySim datasets
 
-✔ Handles messy data:
-
-- ₹ / $ / commas
-- Missing values
-- Mixed formats
+✔ Handles messy real-world data
 
 ---
 
-🧠 Backend Engine
+🧠 Backend Intelligence
 
-- Next.js API Routes
-- Server-side calculations
+- Next.js API routes
+- Server-side processing
 
-✔ Computes:
+✔ Calculates:
 
 - Income
 - Expenses
 - Balance
-- Safe daily spend
+- Daily safe spend
 
 ---
 
-🔄 Multi-Format Support
-
-Format| Supported
-PaySim| ✅
-Bank CSV| ✅
-Excel| ✅
-
----
-
-⚠️ Anomaly Detection
+⚠️ Smart Alerts
 
 - Detects unusual spending
-- Clean UI (no popups)
+- Highlights risk silently
 
 ---
 
-📊 Minimal Dashboard
+📊 Clean Dashboard
 
-- 💰 Safe Spend
-- 📉 Expenses
-- 📈 Income
-- ⚠️ Alerts
+- No graphs
+- No clutter
+- Only important numbers
 
 ---
 
-🏗 Architecture
+🏗 Flow
 
-User Upload → Parser → API → Backend → Dashboard
+Upload → Parse → API → Result
 
 ---
 
@@ -135,10 +135,10 @@ Backend
 
 - Next.js API Routes
 
-Processing
+Data
 
 - XLSX
-- Custom parser
+- Custom CSV parser
 
 Deployment
 
@@ -146,22 +146,42 @@ Deployment
 
 ---
 
-🚀 How It Works
+🧪 Real Use
 
-1️⃣ Upload file
-2️⃣ Data parsed
-3️⃣ Sent to backend
-4️⃣ Processed instantly
-5️⃣ Result shown
+Upload your bank statement and instantly know:
+
+✔ How much you can spend
+✔ If you are overspending
+✔ Your financial health
 
 ---
 
-🏆 Why $ GULLAK
+🎨 Design Principle
 
-Traditional Apps| $ GULLAK
+- ❌ No charts
+- ❌ No clutter
+- ❌ No distractions
+
+✔ Only clarity
+✔ Only decisions
+
+---
+
+🏆 Why GULLAK Wins
+
+Others| GULLAK
 Complex| Simple
 Slow| Instant
 Confusing| Clear
+
+---
+
+🔮 Future Scope
+
+- Bank integrations
+- Authentication
+- Database
+- Mobile app
 
 ---
 
@@ -171,6 +191,8 @@ Aman • Neel • Manav • Aayush
 
 ---
 
-<h2 align="center">🧠 We don’t show data — we show decisions.</h2><p align="center">
-⭐ Star this repo if you like it!
+<h2 align="center">🧠 We don’t show data , we show decisions.</h2><p align="center">
+⭐ Star this repo if you like it
+</p><p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
 </p>
