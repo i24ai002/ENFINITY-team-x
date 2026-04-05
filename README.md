@@ -25,7 +25,7 @@ Financial apps today are:
 - ❌ Confusing
 - ❌ Full of unnecessary charts
 
-👉 Users don’t get clarity — they get overwhelmed.
+👉 Users don’t get clarity ,they get overwhelmed.
 
 ---
 
@@ -54,7 +54,8 @@ GULLAK simplifies finance into ONE clear answer
 
 ---
 
-<h2 align="center">💣 See it. Trust it. Spend it.</h2>---
+<h2 align="center">💣 See it. Trust it. Spend it.</h2> 
+---
 
 💰 Core Innovation
 
@@ -73,13 +74,13 @@ Safe Daily Spend = (Balance - Recurring Expenses) / 30
   - Bank statements
   - PaySim datasets
 
-✔ Handles messy data automatically
+✔ Handles messy real-world data automatically
 
 ---
 
 🧠 Backend Intelligence
 
-- Next.js API routes
+- Next.js API Routes
 - Server-side calculations
 
 ✔ Calculates:
@@ -145,13 +146,14 @@ Upload your bank statement and instantly see:
 
 ---
 
-🏆 Why GULLAK Wins
+## 🏆 Why GULLAK Wins
 
-Feature| Traditional Apps| GULLAK
-UI| Complex| Clean
-Speed| Slow| Instant
-Experience| Confusing| Clear
-Focus| Feature-heavy| Decision-focused
+| 🚀 Feature | ❌ Traditional Apps | ✅ GULLAK |
+|-----------|--------------------|----------|
+| UI        | Complex            | Clean    |
+| Speed     | Slow               | Instant  |
+| Experience| Confusing          | Clear    |
+| Focus     | Feature-heavy      | Decision-focused |
 
 ---
 
@@ -170,6 +172,7 @@ Aman • Neel • Manav • Aayush
 
 ---
 
-<h2 align="center">🧠 We don’t show data — we show decisions.</h2><p align="center">
+<h2 align="center">🧠 We don’t show data !
+  we show decisions.</h2><p align="center">
 ⭐ Star this repo if you like it
 </p>
